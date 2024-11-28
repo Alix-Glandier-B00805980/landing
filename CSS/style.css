@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+@import url("Components/avatar.css");
+@import url("Components/banner.css");
+@import url("Components/button.css");
+@import url("Components/container.css");
+@import url("Components/card.css");
+
+body {
+  font-family: Courier;
+  font-size: 18px;
+  margin: 0px;
+  background-color: rgb(45, 45, 45);
+  color: white;
+
+}
+h1, h2, h3 {
+  font-family: Courier;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+
